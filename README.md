@@ -1,4 +1,4 @@
-# Deminer_console
+# MineSweeper_console
 Deminer game that can be played on console </br>
 
 The program takes two parameters: </br>
